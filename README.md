@@ -1,2 +1,2 @@
-# design_patterns
-design patterns examples  
+# design patterns
+These repositories contain an expmlpe about design pattren 
